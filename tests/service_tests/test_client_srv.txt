@@ -1,0 +1,5 @@
+0;Andrei Mihailescu;5001215570016
+1;Adrian Doroftei;1275728387234
+2;Matei Ionescu;4742818172447
+3;Petru Andrei;3827582189822
+4;Alexandru Afloarei;2498589238356

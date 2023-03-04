@@ -1,0 +1,16 @@
+13;Zehoupe Fzjav;7544768663722;2;Gambitul Damei;Walter Tevis;False
+8;Wogy Wagdihuxm;6581584489866;3;Institutul;Stephen King;False
+9;Ruip Teuvm;3814591829826;4;Exalare;Ted Chiang;False
+14;Asd Asd;1234123412341;2;Gambitul Damei;Walter Tevis;False
+15;Jerjde Tducocwty;7403711146995;4;Exalare;Ted Chiang;False
+8;Wogy Wagdihuxm;6581584489866;0;Biblioteca de la miezul noptii;Matt Haig;False
+14;Asd Asd;1234123412341;0;Biblioteca de la miezul noptii;Matt Haig;False
+10;Wmaoxq Jeyv;4786092342829;0;Biblioteca de la miezul noptii;Matt Haig;False
+9;Ruip Teuvm;3814591829826;0;Biblioteca de la miezul noptii;Matt Haig;False
+4;Alexandru Afloarei;2498589238356;3;Institutul;Stephen King;False
+4;Alexandru Afloarei;2498589238356;1;Despre Destin;Andrei Plesu;False
+5;Cpzdbzw Jwkk;6618688636498;1;Despre Destin;Andrei Plesu;False
+3;Petru Andrei;3827582189822;1;Despre Destin;Andrei Plesu;False
+2;Matei Ionescu;4742818172447;1;Despre Destin;Andrei Plesu;False
+5;Cpzdbzw Jwkk;6618688636498;4;Exalare;Ted Chiang;False
+2;Matei Ionescu;4742818172447;2;Gambitul Damei;Walter Tevis;False
